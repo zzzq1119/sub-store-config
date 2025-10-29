@@ -9,7 +9,7 @@
       },
       {
         "tag": "ali",
-        "type": "https",
+        "type": "tcp",
         "server": "223.5.5.5"
       },
       {
@@ -29,7 +29,7 @@
         "clash_mode": "Global",
         "action": "route",
         "server": "fakeip"
-      }，
+      },
       {
         "rule_set": "cn_domain",
         "action": "route",
